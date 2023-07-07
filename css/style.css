@@ -1,0 +1,45 @@
+body{
+    background-color:#bde4d9;
+}
+h1{
+    color: blue;
+    text-align: center;
+    text-shadow:4px 4px 7px rgb(216, 25, 25);
+}
+dl dt{
+    color:rgb(9, 50, 233);
+
+    text-decoration: underline;
+    text-shadow:5px 4px 7px rgba(247, 10, 235, 0.932);
+}
+div ul{
+    color: rgb(235, 108, 34);
+    background-color:rgba(212, 223, 160,.9)
+    
+}
+ul h2{
+    color:black
+    
+
+}
+ul p {
+color:green;
+}
+dl:nth-child(1){
+    color: green;
+}
+
+dl dd{
+    color:red;
+    background-color:rgb(216, 211, 204);
+    text-align: left;
+    font: size 4px;
+    
+    
+}
+div p{
+    text-shadow:2px 9px 8px rgb(197, 33, 33);
+}
+a.hover{
+    color: rgb(43, 13, 212);
+}
